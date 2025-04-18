@@ -933,7 +933,7 @@ margin-top: 8px;
 	min-height: 16px; */
 	margin-bottom: 24px;
 }
-.modal-form-input + .modal-form-icon {
+.modal-form-input:focus + .modal-form-icon {
 fill: #4d5ae5;
 }
 .custom-checkbox {
