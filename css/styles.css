@@ -112,7 +112,7 @@ main {
 	content: '';
 	position: absolute;
 	left: 0;
-	bottom: -4px;
+	bottom: -24px;
 	height: 4px;
 	width: 100%;
 	background-color: #404bbf;
